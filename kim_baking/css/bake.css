@@ -1,0 +1,71 @@
+html {
+    background-image: url(../images/giftly.png); 
+}
+
+body {
+    width:700px; 
+    padding: 50px; 
+    margin-top: 50px; 
+    margin-left: auto; 
+    margin-right: auto;
+    border: 4px dashed #000; 
+    background-color: #f0f0f0;
+    text-align: left;
+    font-family: 'East Sea Dokdo', cursive;
+    font-style: normal;
+}
+
+a{
+    font-size: 30pt;
+    color: #CD853F; 
+    text-decoration: none;
+}
+
+a:hover { 
+    color: #8B4513;
+}
+
+
+h1 {
+    font-size: 40pt;
+    color: #8B4513;
+    text-align: center;
+    border-top: 2px dotted #686143; 
+    border-bottom: 2px dotted #686143; 
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 40pt;
+    color: #CD853F;
+    text-align: center;
+    border-top: 2px dotted #686143; 
+    border-bottom: 2px dotted #686143; 
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 25pt;
+    color: #000;
+}
+
+li {
+    font-size: 20pt;
+    color: #000;
+}
+
+p{
+    font-size: 25pt; 
+    line-height: 20pt;
+}
+
+img {
+
+    border: medium solid #666; 
+    box-shadow: 5px 5px 5px rgba(0,0,0,.5);
+}
+
+
+.baked-product {
+    float: right;
+}
