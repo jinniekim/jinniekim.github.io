@@ -1,0 +1,61 @@
+html {
+    background: url(../images/circles.png);	
+
+}
+
+body { 
+	width:900px;
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+	background: url(../images/pool_table.png);	
+    box-shadow: 0 0 12px 4px rgba(0,0,0,.7);
+	border: 2px solid #000000;
+	text-align: center;
+	font-family: 'Teko', sans-serif;
+	color: #FFD700;
+	letter-spacing: 1px;
+}
+
+a {
+      color: #FFD700 ;
+      text-decoration: none;
+      font-size: 30px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+}
+
+article {
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+h1 {
+	font-size: 40px;
+	text-transform: uppercase;
+    color: #FFFF ;
+}
+
+p {
+	font-weight: 300;
+	font-size: 25px;
+    color: #FFFF ;
+}
+
+footer {
+	height: 50px;
+	background: #000;
+	text-transform: uppercase;
+	font-size: 10px;
+	letter-spacing: 2px;
+	color: #666;
+	padding-top: 10px;
+}
+
+Nav {
+    margin : 25px;
+}
+
+a:hover {
+    color: #ce000a;
+}
